@@ -1,3 +1,4 @@
+#sudo su 
 # Optimus - Gitpod Community Discord Bot
 
 This repo contains the code that runs the Gitpod Community Discord Bot.
